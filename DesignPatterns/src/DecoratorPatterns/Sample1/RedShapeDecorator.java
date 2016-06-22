@@ -17,5 +17,7 @@ public class RedShapeDecorator extends ShapeDecorator {
     private void setColor(Shape decoratedShape){
         System.out.println("I am Red");
     }
+
+
 }
 
